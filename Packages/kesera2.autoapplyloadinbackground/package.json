@@ -1,0 +1,17 @@
+{
+  "name": "kesera2.autoapplyloadinbackground",
+  "displayName": "kesera2.autoapplyloadinbackground",
+  "version": "0.0.1",
+  "description": "Describe this Package",
+  "dependencies": {},
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "kesera2",
+    "email": "vrckesera2@gmail.com",
+    "url": ""
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "C:\\Users\\eagle\\Unity\\MochimochiTools\\Packages\\kesera2.autoapplyloadinbackground"
+}

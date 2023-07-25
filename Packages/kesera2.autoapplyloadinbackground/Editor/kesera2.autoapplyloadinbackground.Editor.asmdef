@@ -1,0 +1,14 @@
+{
+  "name": "kesera2.autoapplyloadinbackground.Editor",
+  "references": [
+    "kesera2.autoapplyloadinbackground"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}

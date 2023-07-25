@@ -1,0 +1,17 @@
+{
+    "name": "kesera2.autoapplyloadinbackground",
+    "displayName": "Auto Apply Load In Background",
+    "version": "0.0.1-alpha",
+    "description": "Auto Apply Load In Background",
+    "author": {
+        "name": "kesera2",
+        "email": "vrckesera2@gmail.com"
+      },
+    "gitDependencies": {},
+    "vpmDependencies": {},
+    "legacyFolders": {},
+    "legacyFiles": {},
+    "localPath": ".\\Packages\\kesera2.autoapplyloadinbackground",
+    "unity": "2019.4"
+  }
+  
