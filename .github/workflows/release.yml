@@ -4,10 +4,10 @@ on:
   workflow_dispatch:
   push:
     branches: main
-    paths: Packages/com.vrchat.demo-template/**
+    paths: Packages/kesera2.autoapplyloadinbackground/**
 
 env:
-  packageName: "com.vrchat.demo-template"
+  packageName: "kesera2.autoapplyloadinbackground"
 
 permissions:
   contents: write
